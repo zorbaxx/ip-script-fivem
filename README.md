@@ -1,6 +1,8 @@
 # ip-script-fivem
 A simple script to see your ip and ping in a chat message
 
+Join my discord: (https://www.discord.gg/xSQjGh66vP)
+
 # Installation
 - Delete from the folder name: fivem-main | Let it as: ip-script
 
